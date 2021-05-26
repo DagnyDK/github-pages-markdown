@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My New GitHub page could be a blog
 
 You can use the [editor on GitHub](https://github.com/DagnyDK/github-pages-markdown/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
